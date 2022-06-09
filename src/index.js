@@ -3,7 +3,7 @@ import ReactDOM from "react-dom"
 // CSS file
 import "./App.css"
 //component file
-import TodoContainer from "./components/TodoContainer"
+import TodoContainer from "./functionComp/TodoContainer"
 ReactDOM.render(
 <React.StrictMode>
     <TodoContainer />
